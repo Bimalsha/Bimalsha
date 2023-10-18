@@ -1,4 +1,4 @@
-[![MasterHead](https://timelinecovers.pro/facebook-cover/download/programming-function-with-arg-facebook-cover.jpg)]
+![MasterHead](https://timelinecovers.pro/facebook-cover/download/programming-function-with-arg-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Bimalsha Dinuwan</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4E03AQHhYx9PJSz8lQ/profile-displayphoto-shrink_800_800/0/1682026325714?e=2147483647&v=beta&t=TsqbVKIX8PAgyyyz_XIBNRIPDSN8rktnDZnoNJER7j8">
