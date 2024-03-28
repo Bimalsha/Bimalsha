@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bimalsha Dinuwan</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="300" src="">
-<p align="left"> <img src="https://www.facebook.com/photo/?fbid=702711968729870&set=a.702712008729866" alt="bimalsha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaniladilnayan&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I’m currently working on **1000D Technology**
 
