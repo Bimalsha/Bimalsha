@@ -1,7 +1,7 @@
 ![MasterHead](https://timelinecovers.pro/facebook-cover/download/programming-function-with-arg-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Bimalsha Dinuwan</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4E03AQHhYx9PJSz8lQ/profile-displayphoto-shrink_800_800/0/1682026325714?e=2147483647&v=beta&t=TsqbVKIX8PAgyyyz_XIBNRIPDSN8rktnDZnoNJER7j8">
+<img align="right" alt="Coding" width="300" src="https://www.facebook.com/photo/?fbid=702711968729870&set=a.702712008729866">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimalsha&label=Profile%20views&color=0e75b6&style=flat" alt="bimalsha" /> </p>
 
 - 🔭 I’m currently working on **1000D Technology**
